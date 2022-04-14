@@ -23,7 +23,7 @@ def find_path():
     #selects a directory to add the url file to
     #21 - path does not exist
     while True:
-        print("Please select path")
+        print("Path")
         root = Tk()
         root.withdraw()
         folder_selected = filedialog.askdirectory()

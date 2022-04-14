@@ -6,17 +6,18 @@ I use .url files a fair amount so I decided to make this
 
 
 [Running]
+
 URL 
 
 -- The site you want to add
-*May take a while to respond 
-*Must be full url 
 
+*May take a while to respond 
+
+*Must be full url 
 
 Path
 
 -- The path you want to add the .url file to 
-
 
 Name
 

@@ -4,8 +4,6 @@ import datetime
 import requests
 from os.path import exists
 from http import HTTPStatus
-from tkinter import filedialog
-from tkinter import *
 
 def check_site(url):
     #checks if a site 1) exists and 2) is up
